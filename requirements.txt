@@ -1,0 +1,5 @@
+tfcausalimpact
+matplotlib
+jinja2
+tensorflow>=2.3.0
+tensorflow_probability>=0.11.0
