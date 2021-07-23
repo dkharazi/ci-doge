@@ -1,0 +1,1 @@
+docker build -t ci_img -f ./Dockerfile .

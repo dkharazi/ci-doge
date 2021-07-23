@@ -1,0 +1,1 @@
+docker run -v $(pwd)/notebooks:/notebooks -p 8888:8888 ci_img
