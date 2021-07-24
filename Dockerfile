@@ -1,4 +1,4 @@
-FROM jupyter/datascience-notebook:python-3.7.6
+FROM jupyter/minimal-notebook:python-3.8.8
 USER root
 EXPOSE 8888
 
